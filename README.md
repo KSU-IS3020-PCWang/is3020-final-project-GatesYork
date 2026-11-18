@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Gates York
+- GitHub username: GatesYork 
+- Project title: LayTracker
+- Application purpose: I’m building a Python app that helps users record their sports parlays, update the results, and see their win percentage and overall profit or loss.
 
 ## How to Run the Application
 
